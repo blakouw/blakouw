@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blakouw
-- 🌱 I’m currently learning JS, Python
+- 🌱 I’m currently learning JS, Python, Java
 
 <!---
 blakouw/blakouw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
