@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/balvckvt7" target="blank"><img src="https://img.shields.io/twitter/follow/balvckvt7?logo=twitter&style=for-the-badge" alt="balvckvt7" /></a> </p>
 
-- 🌱 I’m currently developing my skills in **Python, Java **
+- 🌱 I’m currently developing my skills in **Python, Java**
 
 - 📫 How to reach me **ckamillopx@gmail.com**
 
