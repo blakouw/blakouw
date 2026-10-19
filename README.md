@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">Computer Science in Engineering student, Intern at Sii Poland, Python and Java enthusiast</h3>
+<h3 align="center">Python and Java enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/balvckvt7" target="blank"><img src="https://img.shields.io/twitter/follow/balvckvt7?logo=twitter&style=for-the-badge" alt="balvckvt7" /></a> </p>
 
